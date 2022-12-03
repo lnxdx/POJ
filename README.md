@@ -1,2 +1,2 @@
 # POJ
-Solutions to PKU Online Judge (POK) Problems.
+Solutions to PKU Online Judge (POJ) Problems.
